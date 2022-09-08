@@ -1,0 +1,91 @@
+# Possible values:
+#   seeds: [1, 2, 3, 4]
+#   pools: [1, 2, 3, 4]
+#   regions: [CN, KR, EU, NA, PCS, VN, BR, JP, OCE, TR]
+
+# China
+- name: JD Gaming
+  seed: 1
+  pool: 1
+  region: CN
+
+- name: Top Esports
+  seed: 2
+  pool: 2
+  region: CN
+
+- name: EDward Gaming
+  seed: 3
+  pool: 3
+  region: CN
+
+# Korea
+- name: Gen.G
+  seed: 1
+  pool: 1
+  region: KR
+
+- name: T1
+  seed: 2
+  pool: 2
+  region: KR
+
+- name: DWG KIA
+  seed: 3
+  pool: 3
+  region: KR
+
+# Europe
+- name: G2
+  seed: 1
+  pool: 1
+  region: EU
+
+- name: FNC
+  seed: 2
+  pool: 2
+  region: EU
+
+# North America
+- name: 100 Thieves
+  seed: 1
+  pool: 1
+  region: NA
+
+- name: Cloud 9
+  seed: 2
+  pool: 3
+  region: NA
+
+# PCS
+- name: CTBC Flying Oyster
+  seed: 1
+  pool: 2
+  region: PCS
+
+# Vietnam
+- name: GAM Esports
+  seed: 1
+  pool: 3
+  region: VN
+
+# From Play-In
+- name: Royal Never Give Up
+  seed: 4
+  pool: 4
+  region: CN
+
+- name: EG
+  seed: 3
+  pool: 4
+  region: NA
+
+- name: MAD Lions
+  seed: 4
+  pool: 4
+  region: EU
+
+- name: Rogue
+  seed: 3
+  pool: 4
+  region: EU
